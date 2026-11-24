@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="490" viewBox="0 0 960 490" role="img" aria-labelledby="title desc">
+  <title id="title">DroidSuit — Fonctionnalités</title>
+  <desc id="desc">Gestion d’appareils Android et iPhone sur Windows. Vue de l’appareil, sauvegardes locales, fichiers et applis, sans compte ni télémétrie. Bêta privée sur invitation.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f7fbff"/><stop offset="1" stop-color="#eaf4ff"/></linearGradient>
+    <linearGradient id="screen" x2="1" y2="1"><stop stop-color="#d9f0ff"/><stop offset="1" stop-color="#90ceff"/></linearGradient>
+    <clipPath id="frame"><rect width="960" height="490" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)" font-family="Segoe UI, Arial, sans-serif">
+    <rect width="960" height="490" fill="url(#bg)"/>
+    <circle cx="866" cy="20" r="132" fill="#90ceff" opacity=".2"/>
+    <circle cx="960" cy="192" r="115" fill="#00b8a5" opacity=".11"/>
+    <path d="M0 187C207 111 338 237 513 184C674 135 812 144 960 185V490H0Z" fill="#d9f0ff" opacity=".62"/>
+    <g transform="translate(267 19) scale(.285)">
+      <rect x="118" y="58" width="226" height="396" rx="46" fill="#005fea"/>
+      <rect x="143" y="119" width="176" height="255" rx="17" fill="url(#screen)"/>
+      <rect x="192" y="84" width="78" height="12" rx="6" fill="#fff"/>
+      <rect x="198" y="414" width="66" height="13" rx="6.5" fill="#fff"/>
+      <path d="M343 192c32 28 67 38 99 41v78c0 67-49 116-99 139-50-23-99-72-99-139v-78c32-3 67-13 99-41z" fill="#00b8a5" stroke="#fff" stroke-width="15"/>
+      <path d="m294 317 32 32 67-78" fill="none" stroke="#fff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="411" y="86" font-size="62" font-weight="700" fill="#1e2333">Droid<tspan fill="#005fea">Suit</tspan></text>
+    <text x="415" y="121" font-size="23" fill="#44526a">Android et iPhone sur Windows</text>
+    <rect x="415" y="139" width="260" height="30" rx="15" fill="#005fea"/>
+    <text x="545" y="160" text-anchor="middle" font-size="15" font-weight="700" letter-spacing=".35" fill="#fff">BÊTA PRIVÉE · SUR INVITATION</text>
+    <g transform="translate(30 207)">
+      <rect width="438" height="120" rx="19" fill="#fff" stroke="#cfdfed"/>
+      <g transform="translate(6 13)"><circle cx="46" cy="48" r="24" fill="#eff6ff"/><rect x="32" y="28" width="28" height="42" rx="6" fill="#005fea"/><path d="M41 34h10M43 63h6" stroke="#fff" stroke-width="2" stroke-linecap="round"/></g>
+      <text x="88" y="50" font-size="26" font-weight="700" fill="#1e2333">Vue de l’appareil</text>
+      <text x="88" y="82" font-size="18" fill="#506178">Batterie, stockage et diagnostics.</text>
+    </g>
+    <g transform="translate(492 207)">
+      <rect width="438" height="120" rx="19" fill="#fff" stroke="#cfdfed"/>
+      <g transform="translate(6 13)"><circle cx="46" cy="48" r="24" fill="#e9fbf8"/><path d="M28 45h36v23H28z" fill="#005fea"/><path d="M32 53h18v4H32z" fill="#d9f0ff"/><circle cx="57" cy="55" r="3" fill="#00b8a5"/><path d="M34 41c2-12 18-16 27-7l4-3v14H51l5-5c-6-6-16-5-22 1z" fill="#00b8a5"/></g>
+      <text x="88" y="50" font-size="26" font-weight="700" fill="#1e2333">Sauvegardes locales</text>
+      <text x="88" y="82" font-size="18" fill="#506178">Incrémentales, vérifiables et chiffrables.</text>
+    </g>
+    <g transform="translate(30 340)">
+      <rect width="438" height="120" rx="19" fill="#fff" stroke="#cfdfed"/>
+      <g transform="translate(6 13)"><circle cx="46" cy="48" r="24" fill="#eff6ff"/><path d="M25 43h42v27H25zM27 39h18l5 7H25z" fill="#0047c6"/><path d="M25 50h45l-6 20H29z" fill="#005fea"/></g>
+      <text x="88" y="50" font-size="26" font-weight="700" fill="#1e2333">Fichiers et applis</text>
+      <text x="88" y="82" font-size="18" fill="#506178">Explorez, exportez et gérez vos contenus.</text>
+    </g>
+    <g transform="translate(492 340)">
+      <rect width="438" height="120" rx="19" fill="#fff" stroke="#cfdfed"/>
+      <g transform="translate(6 13)"><circle cx="46" cy="48" r="24" fill="#e9fbf8"/><path d="M46 25c8 7 14 8 21 9v13c0 13-10 21-21 26-11-5-21-13-21-26V34c7-1 13-2 21-9z" fill="#00b8a5"/><path d="m37 48 6 6 12-14" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+      <text x="88" y="50" font-size="26" font-weight="700" fill="#1e2333">Privé par conception</text>
+      <text x="88" y="82" font-size="18" fill="#506178">Sans compte, publicité ni télémétrie.</text>
+    </g>
+  </g>
+</svg>
