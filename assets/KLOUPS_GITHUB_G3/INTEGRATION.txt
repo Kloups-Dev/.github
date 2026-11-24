@@ -1,0 +1,6 @@
+Maquette GitHub de Kloups Studio — G.3
+
+Copier assets/g3 et profile/README.md dans le dépôt Kloups-Dev/.github pour appliquer la proposition.
+Les liens des images sont relatifs au README. Les liens de projet pointent sur les dépôts consultés.
+DroidSuit et LG Firmware Explorer utilisent leurs bannières d’origine dans un cadre Kloups Studio. Focus Heure reprend les couleurs noir et blanc de son DESIGN.md. Console Launcher reprend G.3. Les visuels Focus Heure et Console Launcher sont des illustrations.
+Les logos de stack sont repris du projet Skill Icons (https://github.com/tandpfun/skill-icons). Typographie Satoshi de Fontshare, utilisée dans les PNG.
