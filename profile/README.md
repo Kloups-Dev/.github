@@ -16,41 +16,53 @@
 
 ## Projets sélectionnés
 
-### 01 / Console Launcher
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/walou444/DroidSuit"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/droidsuit.png" alt="Bannière de DroidSuit" width="100%"></a>
+      <h3>DroidSuit</h3>
+      <p>Gérer les données de ses appareils Android et iPhone depuis Windows, en local.</p>
+      <p><sub>WINDOWS · BÊTA PRIVÉE SUR INVITATION</sub></p>
+      <p><a href="https://github.com/walou444/DroidSuit">Explorer le projet →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Kloups-Dev/lg-firmware-explorer"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/lg-firmware-explorer.png" alt="Bannière de LG Firmware Explorer" width="100%"></a>
+      <h3>LG Firmware Explorer</h3>
+      <p>Parcourir un firmware, consulter ses ressources et produire des rapports HTML. Le projet s’appuie sur les travaux OpenLGTV.</p>
+      <p><sub>C# / WPF · PRÉVERSION PUBLIQUE</sub></p>
+      <p><a href="https://github.com/Kloups-Dev/lg-firmware-explorer">Explorer le projet →</a> · <a href="https://github.com/Kloups-Dev/lg-firmware-explorer/releases">Voir les versions →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Kloups-Dev/console-launcher"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/console-launcher.png" alt="Bannière de Console Launcher" width="100%"></a>
+      <h3>Console Launcher</h3>
+      <p>Retrouver et lancer ses jeux depuis une bibliothèque pour Windows et Linux qui s’appuie sur les émulateurs existants.</p>
+      <p><sub>RUST / QT QUICK · PROTOTYPE EN PRÉVERSION</sub></p>
+      <p><a href="https://github.com/Kloups-Dev/console-launcher">Explorer le projet →</a> · <a href="https://github.com/Kloups-Dev/console-launcher/releases">Voir les versions →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Kloups-Dev/focus-heure"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/focus-heure.png" alt="Bannière de Focus Heure" width="100%"></a>
+      <h3>Focus Heure</h3>
+      <p>Définir des créneaux de concentration sur Windows 11, avec compte à rebours, notifications et prise en charge de plusieurs écrans.</p>
+      <p><sub>C# / WINDOWS · CODE SOURCE DISPONIBLE</sub></p>
+      <p><a href="https://github.com/Kloups-Dev/focus-heure">Explorer le projet →</a></p>
+    </td>
+  </tr>
+</table>
 
-**Une bibliothèque pour retrouver et lancer ses jeux.**
+## Langages & outils
 
-Une application de bureau pour Windows et Linux qui rassemble jeux, consoles et émulateurs dans une même interface. Elle s’appuie sur les émulateurs existants.
+<img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/stack.png" alt="Stack Kloups Studio par domaine. Détail ci-dessous." width="100%">
 
-<sub>LOGICIEL · RUST / QT QUICK · PROTOTYPE EN PRÉVERSION</sub>
+<details>
+<summary>Voir la liste des technologies</summary>
 
-[Explorer le projet →](https://github.com/Kloups-Dev/console-launcher) &nbsp; [Voir les versions →](https://github.com/Kloups-Dev/console-launcher/releases)
+- **Langages & web** · Rust, TypeScript, JavaScript, Python, C#, HTML, CSS
+- **Interfaces & applications** · Qt / QML, React, Next.js, Node.js, Tailwind CSS
+- **Infrastructure & livraison** · Linux, Docker, Nginx, Vercel, Git, GitHub
 
----
-
-### 02 / LG Firmware Explorer
-
-**Passer d’un firmware à une analyse lisible.**
-
-Un explorateur Windows pour parcourir les fichiers extraits, consulter des ressources graphiques, comparer des extractions et produire des rapports HTML. L’interface et les outils d’analyse s’appuient sur les travaux OpenLGTV.
-
-<sub>OUTIL · C# / WPF · PRÉVERSION PUBLIQUE</sub>
-
-[Explorer le projet →](https://github.com/Kloups-Dev/lg-firmware-explorer) &nbsp; [Voir les versions →](https://github.com/Kloups-Dev/lg-firmware-explorer/releases)
-
----
-
-### 03 / Focus Heure
-
-**Définir des créneaux pour rester concentré.**
-
-Un utilitaire Windows 11 qui limite l’accès aux autres applications pendant des créneaux configurables, avec compte à rebours, notifications et prise en charge de plusieurs écrans.
-
-<sub>UTILITAIRE · C# / WINDOWS · CODE SOURCE DISPONIBLE</sub>
-
-[Explorer le projet →](https://github.com/Kloups-Dev/focus-heure)
-
-<br>
+</details>
 
 ## Le studio
 
