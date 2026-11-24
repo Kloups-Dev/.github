@@ -1,5 +1,5 @@
 <a href="https://kloups.fr">
-  <img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/banner.svg" alt="Kloups Studio — studio indépendant de développement. Logiciels, web et outils numériques." width="100%">
+  <img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/bc81b8a5-bdd4-4f54-b512-9e4d92e2c346.png" alt="Kloups Studio — studio indépendant de développement. Logiciels, web et outils numériques." width="100%">
 </a>
 
 <p>
