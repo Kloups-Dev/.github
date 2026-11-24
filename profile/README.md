@@ -21,9 +21,7 @@
 
 Gérez vos appareils Android et iPhone depuis Windows. Les sauvegardes et les exports restent sur votre ordinateur. Les fonctions disponibles varient selon la plateforme.
 
-<a href="https://github.com/walou444/DroidSuit"><img src="https://raw.githubusercontent.com/walou444/DroidSuit/main/assets/screenshots/backups.png" alt="DroidSuit – bibliothèque de sauvegardes sur Windows" width="100%"></a>
-
-<sub>Bibliothèque de sauvegardes · capture de développement avec données de démonstration.</sub>
+<a href="https://github.com/walou444/DroidSuit"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/droidsuit-overview.svg" alt="DroidSuit — vue de l’appareil, sauvegardes locales, fichiers et applis, données privées" width="100%"></a>
 
 **Bêta privée sur invitation** · [Voir le projet ↗](https://github.com/walou444/DroidSuit)
 
