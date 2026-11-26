@@ -4,31 +4,28 @@
 
 # Studio indépendant de développement
 
-Nous concevons des applications Windows et Linux, des sites web et des outils numériques. Retrouvez ici les projets du studio, leur état et où les essayer.
+Nous développons des applications Windows et Linux, des sites web et des outils numériques.
 
-**[Découvrir le studio ↗](https://kloups.fr)** · [Parcourir les dépôts ↗](https://github.com/orgs/kloups-studio/repositories) · [Sites et outils web ↓](#sites-et-outils-web)
+**[Découvrir le studio ↗](https://kloups.fr)** · [Parcourir les dépôts ↗](https://github.com/orgs/kloups-studio/repositories)
 
-## Projets en vedette
+[Autres projets ↓](#projets-kloups) · [Outils web ↓](#outils-web-kloups) · [Logos de la stack ↓](#stack-kloups)
 
-### DroidSuit
+## 🚨 Projets en vedette
 
-**Windows · Android et iPhone · Bêta privée sur invitation**
+<table>
+  <tr>
+    <td width="41%" valign="middle"><a href="https://github.com/walou444/DroidSuit"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/droidsuit-overview.svg" alt="DroidSuit — vue de l’appareil, sauvegardes locales, fichiers et applis, données privées" width="100%"></a></td>
+    <td valign="middle"><strong>DroidSuit</strong><br>Gérez vos fichiers, applis et sauvegardes Android et iPhone depuis Windows. Les sauvegardes restent en local.<br><sub>Bêta privée sur invitation</sub><br><a href="https://github.com/walou444/DroidSuit">Voir le projet ↗</a></td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>GameTune</strong><br><sub>Windows</sub></td>
+    <td valign="middle">Réglages gaming, outils de maintenance et instantanés de configuration.<br><a href="https://apps.microsoft.com/detail/9p13w9dgw9qc?gl=FR&amp;hl=fr-FR">Voir sur le Microsoft Store ↗</a></td>
+  </tr>
+</table>
 
-Gérez les fichiers, les applis et les sauvegardes de vos appareils depuis Windows. Les sauvegardes et les exports restent sur votre ordinateur. Les fonctions disponibles varient selon la plateforme.
+<a name="projets-kloups"></a>
 
-<a href="https://github.com/walou444/DroidSuit"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/droidsuit-overview.svg" alt="DroidSuit — vue de l’appareil, sauvegardes locales, fichiers et applis, données privées" width="100%"></a>
-
-**[Voir le projet ↗](https://github.com/walou444/DroidSuit)**
-
-### GameTune
-
-**Windows · Disponible sur le Microsoft Store**
-
-Retrouvez au même endroit vos réglages pour PC gaming, vos outils de maintenance et vos instantanés de configuration.
-
-**[Voir sur le Microsoft Store ↗](https://apps.microsoft.com/detail/9p13w9dgw9qc?gl=FR&hl=fr-FR)**
-
-## Autres applications
+## 💻 Autres applications
 
 <table>
   <tr>
@@ -45,7 +42,9 @@ Retrouvez au même endroit vos réglages pour PC gaming, vos outils de maintenan
   </tr>
 </table>
 
-## Sites et outils web
+<a name="outils-web-kloups"></a>
+
+## 🌐 Sites et outils web
 
 | Outil | Ce que vous pouvez faire |
 | :--- | :--- |
@@ -53,7 +52,9 @@ Retrouvez au même endroit vos réglages pour PC gaming, vos outils de maintenan
 | **[Kloups YT DL ↗](https://yt.kloups.fr/)** | Analysez un lien YouTube et choisissez un export vidéo ou audio pour les contenus que vous êtes autorisé à télécharger. |
 | **[Knowledge Core ↗](https://kc.kloups.fr/)** | Recherchez dans une base de connaissances techniques et retrouvez les fiches, leurs sources et leurs liens. |
 
-## Langages et outils
+<a name="stack-kloups"></a>
+
+## 🧰 Langages et outils
 
 <img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/stack.png" alt="Stack Kloups Studio par domaine. Détail ci-dessous." width="100%">
 
@@ -66,7 +67,7 @@ Retrouvez au même endroit vos réglages pour PC gaming, vos outils de maintenan
 
 </details>
 
-## Comment nous travaillons
+## 🛠️ Comment nous travaillons
 
 Nous partons d’un usage, testons une première version, puis travaillons l’interface et la documentation. Chaque dépôt indique l’état du projet et ses conditions d’utilisation.
 
