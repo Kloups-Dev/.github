@@ -31,15 +31,15 @@ Nous développons des applications Windows et Linux, des sites web et des outils
 
 <table>
   <tr>
-    <td width="38%" valign="top"><a href="https://github.com/Kloups-Dev/console-launcher"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/console-launcher.png" alt="Visuel de Console Launcher" width="100%"></a></td>
+    <td width="42%" valign="middle" align="center"><a href="https://github.com/Kloups-Dev/console-launcher"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/console-launcher.png" alt="Visuel de Console Launcher" width="100%" align="middle"></a></td>
     <td valign="top"><strong>Console Launcher</strong><br>Une bibliothèque pour retrouver et lancer vos jeux émulés sous Windows et Linux.<br><sub>Rust / Qt Quick · Prototype en préversion</sub><div align="center"><a href="https://github.com/Kloups-Dev/console-launcher"><img src="https://img.shields.io/badge/Projet-3155E7?style=flat-square" alt="Voir le projet"></a></div></td>
   </tr>
   <tr>
-    <td width="38%" valign="top"><a href="https://github.com/Kloups-Dev/lg-firmware-explorer"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/lg-firmware-explorer.png" alt="Visuel de LG Firmware Explorer" width="100%"></a></td>
+    <td width="42%" valign="middle" align="center"><a href="https://github.com/Kloups-Dev/lg-firmware-explorer"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/lg-firmware-explorer.png" alt="Visuel de LG Firmware Explorer" width="100%" align="middle"></a></td>
     <td valign="top"><strong>LG Firmware Explorer</strong><br>Explorez les ressources d’un firmware LG et exportez des rapports HTML. L’outil s’appuie sur les travaux d’OpenLGTV.<br><sub>C# / WPF · Préversion publique</sub><div align="center"><a href="https://github.com/Kloups-Dev/lg-firmware-explorer"><img src="https://img.shields.io/badge/Projet-3155E7?style=flat-square" alt="Voir le projet"></a></div></td>
   </tr>
   <tr>
-    <td width="38%" valign="top"><a href="https://github.com/Kloups-Dev/focus-heure"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/focus-heure.png" alt="Visuel de Focus Heure" width="100%"></a></td>
+    <td width="42%" valign="middle" align="center"><a href="https://github.com/Kloups-Dev/focus-heure"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/focus-heure.png" alt="Visuel de Focus Heure" width="100%" align="middle"></a></td>
     <td valign="top"><strong>Focus Heure</strong><br>Planifiez des créneaux de concentration sur Windows 11 avec un compte à rebours sur plusieurs écrans.<br><sub>C# · Code source disponible</sub><div align="center"><a href="https://github.com/Kloups-Dev/focus-heure"><img src="https://img.shields.io/badge/Projet-3155E7?style=flat-square" alt="Voir le projet"></a></div></td>
   </tr>
 </table>
