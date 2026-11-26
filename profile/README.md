@@ -12,14 +12,6 @@ Nous développons des applications Windows et Linux, des sites web et des outils
   <a href="https://github.com/orgs/kloups-studio/repositories"><img src="https://img.shields.io/badge/Parcourir%20les%20d%C3%A9p%C3%B4ts-24272C?style=for-the-badge" alt="Parcourir les dépôts"></a>
 </p>
 
-<p align="center">
-  <a href="#projets-kloups"><img src="https://img.shields.io/badge/Autres%20projets-24272C?style=flat-square" alt="Autres projets"></a>
-  &nbsp;
-  <a href="#outils-web-kloups"><img src="https://img.shields.io/badge/Outils%20web-24272C?style=flat-square" alt="Outils web"></a>
-  &nbsp;
-  <a href="#stack-kloups"><img src="https://img.shields.io/badge/Logos%20de%20la%20stack-24272C?style=flat-square" alt="Logos de la stack"></a>
-</p>
-
 ## 🚨 Projets en vedette
 
 <table>
@@ -40,11 +32,11 @@ Nous développons des applications Windows et Linux, des sites web et des outils
 <table>
   <tr>
     <td width="38%" valign="top"><a href="https://github.com/Kloups-Dev/console-launcher"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/console-launcher.png" alt="Visuel de Console Launcher" width="100%"></a></td>
-    <td valign="top"><strong>Console Launcher</strong><br>Une bibliothèque pour retrouver et lancer vos jeux émulés sous Windows et Linux.<br><sub>Rust / Qt Quick · Prototype en préversion</sub><div align="center"><a href="https://github.com/Kloups-Dev/console-launcher"><img src="https://img.shields.io/badge/Projet-3155E7?style=flat-square" alt="Voir le projet"></a>&nbsp;&nbsp;<a href="https://github.com/Kloups-Dev/console-launcher/releases"><img src="https://img.shields.io/badge/Versions-24272C?style=flat-square" alt="Versions"></a></div></td>
+    <td valign="top"><strong>Console Launcher</strong><br>Une bibliothèque pour retrouver et lancer vos jeux émulés sous Windows et Linux.<br><sub>Rust / Qt Quick · Prototype en préversion</sub><div align="center"><a href="https://github.com/Kloups-Dev/console-launcher"><img src="https://img.shields.io/badge/Projet-3155E7?style=flat-square" alt="Voir le projet"></a></div></td>
   </tr>
   <tr>
     <td width="38%" valign="top"><a href="https://github.com/Kloups-Dev/lg-firmware-explorer"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/lg-firmware-explorer.png" alt="Visuel de LG Firmware Explorer" width="100%"></a></td>
-    <td valign="top"><strong>LG Firmware Explorer</strong><br>Explorez les ressources d’un firmware LG et exportez des rapports HTML. L’outil s’appuie sur les travaux d’OpenLGTV.<br><sub>C# / WPF · Préversion publique</sub><div align="center"><a href="https://github.com/Kloups-Dev/lg-firmware-explorer"><img src="https://img.shields.io/badge/Projet-3155E7?style=flat-square" alt="Voir le projet"></a>&nbsp;&nbsp;<a href="https://github.com/Kloups-Dev/lg-firmware-explorer/releases"><img src="https://img.shields.io/badge/Versions-24272C?style=flat-square" alt="Versions"></a></div></td>
+    <td valign="top"><strong>LG Firmware Explorer</strong><br>Explorez les ressources d’un firmware LG et exportez des rapports HTML. L’outil s’appuie sur les travaux d’OpenLGTV.<br><sub>C# / WPF · Préversion publique</sub><div align="center"><a href="https://github.com/Kloups-Dev/lg-firmware-explorer"><img src="https://img.shields.io/badge/Projet-3155E7?style=flat-square" alt="Voir le projet"></a></div></td>
   </tr>
   <tr>
     <td width="38%" valign="top"><a href="https://github.com/Kloups-Dev/focus-heure"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/focus-heure.png" alt="Visuel de Focus Heure" width="100%"></a></td>
