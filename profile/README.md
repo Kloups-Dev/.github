@@ -2,91 +2,72 @@
   <img src="https://raw.githubusercontent.com/kloups-studio/.github/main/assets/KLOUPS%20STUDIO%2C%20empreinte%20num%C3%A9rique.png" alt="Kloups Studio — studio indépendant de développement. Logiciels, web et outils numériques." width="100%">
 </a>
 
-<p>
-  <strong>Nous concevons des logiciels et des sites web, guidés par la création, la passion et l’utilité.</strong><br>
-  Des idées explorées, des interfaces travaillées et des outils construits autour d’un usage concret.
-</p>
+# Studio indépendant de développement
 
-<p>
-  <a href="https://kloups.fr"><strong>Découvrir le studio ↗</strong></a>&nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://github.com/orgs/Kloups-Dev/repositories">Parcourir les dépôts ↗</a>&nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="#sites-et-outils-web">Sites et outils web ↓</a>
-</p>
+Nous concevons des applications Windows et Linux, des sites web et des outils numériques. Retrouvez ici les projets du studio, leur état et où les essayer.
 
-<br>
+**[Découvrir le studio ↗](https://kloups.fr)** · [Parcourir les dépôts ↗](https://github.com/orgs/kloups-studio/repositories) · [Sites et outils web ↓](#sites-et-outils-web)
 
-## Projets principaux
+## Projets en vedette
 
 ### DroidSuit
 
-Gérez vos appareils Android et iPhone depuis Windows. Les sauvegardes et les exports restent sur votre ordinateur. Les fonctions disponibles varient selon la plateforme.
+**Windows · Android et iPhone · Bêta privée sur invitation**
+
+Gérez les fichiers, les applis et les sauvegardes de vos appareils depuis Windows. Les sauvegardes et les exports restent sur votre ordinateur. Les fonctions disponibles varient selon la plateforme.
 
 <a href="https://github.com/walou444/DroidSuit"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/droidsuit-overview.svg" alt="DroidSuit — vue de l’appareil, sauvegardes locales, fichiers et applis, données privées" width="100%"></a>
 
-**Bêta privée sur invitation** · [Voir le projet ↗](https://github.com/walou444/DroidSuit)
+**[Voir le projet ↗](https://github.com/walou444/DroidSuit)**
 
 ### GameTune
 
-Une application Windows qui réunit des réglages pour PC gaming, des outils de maintenance et des instantanés de configuration.
+**Windows · Disponible sur le Microsoft Store**
 
-[Voir sur le Microsoft Store ↗](https://apps.microsoft.com/detail/9p13w9dgw9qc?gl=FR&hl=fr-FR)
+Retrouvez au même endroit vos réglages pour PC gaming, vos outils de maintenance et vos instantanés de configuration.
 
-## Projets secondaires
+**[Voir sur le Microsoft Store ↗](https://apps.microsoft.com/detail/9p13w9dgw9qc?gl=FR&hl=fr-FR)**
+
+## Autres applications
 
 <table>
   <tr>
-    <td width="42%" valign="top"><a href="https://github.com/Kloups-Dev/console-launcher"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/console-launcher.png" alt="Visuel de Console Launcher" width="100%"></a></td>
-    <td valign="top"><strong>Console Launcher</strong><br>Retrouvez et lancez vos jeux depuis une bibliothèque pour Windows et Linux qui s’appuie sur vos émulateurs.<br><sub>Rust / Qt Quick · Prototype en préversion</sub><br><a href="https://github.com/Kloups-Dev/console-launcher">Projet ↗</a> · <a href="https://github.com/Kloups-Dev/console-launcher/releases">Versions ↗</a></td>
+    <td width="38%" valign="top"><a href="https://github.com/Kloups-Dev/console-launcher"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/console-launcher.png" alt="Visuel de Console Launcher" width="100%"></a></td>
+    <td valign="top"><strong>Console Launcher</strong><br>Une bibliothèque pour retrouver et lancer vos jeux émulés sous Windows et Linux.<br><sub>Rust / Qt Quick · Prototype en préversion</sub><br><a href="https://github.com/Kloups-Dev/console-launcher">Voir le projet ↗</a> · <a href="https://github.com/Kloups-Dev/console-launcher/releases">Versions ↗</a></td>
   </tr>
   <tr>
-    <td width="42%" valign="top"><a href="https://github.com/Kloups-Dev/lg-firmware-explorer"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/lg-firmware-explorer.png" alt="Visuel de LG Firmware Explorer" width="100%"></a></td>
-    <td valign="top"><strong>LG Firmware Explorer</strong><br>Parcourez les ressources d’un firmware et générez des rapports HTML. L’outil s’appuie sur les travaux OpenLGTV.<br><sub>C# / WPF · Préversion publique</sub><br><a href="https://github.com/Kloups-Dev/lg-firmware-explorer">Projet ↗</a> · <a href="https://github.com/Kloups-Dev/lg-firmware-explorer/releases">Versions ↗</a></td>
+    <td width="38%" valign="top"><a href="https://github.com/Kloups-Dev/lg-firmware-explorer"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/lg-firmware-explorer.png" alt="Visuel de LG Firmware Explorer" width="100%"></a></td>
+    <td valign="top"><strong>LG Firmware Explorer</strong><br>Explorez les ressources d’un firmware LG et exportez des rapports HTML. L’outil s’appuie sur les travaux d’OpenLGTV.<br><sub>C# / WPF · Préversion publique</sub><br><a href="https://github.com/Kloups-Dev/lg-firmware-explorer">Voir le projet ↗</a> · <a href="https://github.com/Kloups-Dev/lg-firmware-explorer/releases">Versions ↗</a></td>
   </tr>
   <tr>
-    <td width="42%" valign="top"><a href="https://github.com/Kloups-Dev/focus-heure"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/focus-heure.png" alt="Visuel de Focus Heure" width="100%"></a></td>
-    <td valign="top"><strong>Focus Heure</strong><br>Planifiez des créneaux de concentration sur Windows 11, avec compte à rebours et prise en charge de plusieurs écrans.<br><sub>C# · Code source disponible</sub><br><a href="https://github.com/Kloups-Dev/focus-heure">Projet ↗</a></td>
+    <td width="38%" valign="top"><a href="https://github.com/Kloups-Dev/focus-heure"><img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/focus-heure.png" alt="Visuel de Focus Heure" width="100%"></a></td>
+    <td valign="top"><strong>Focus Heure</strong><br>Planifiez des créneaux de concentration sur Windows 11 avec un compte à rebours sur plusieurs écrans.<br><sub>C# · Code source disponible</sub><br><a href="https://github.com/Kloups-Dev/focus-heure">Voir le projet ↗</a></td>
   </tr>
 </table>
 
 ## Sites et outils web
 
-| Site | À quoi il sert |
+| Outil | Ce que vous pouvez faire |
 | :--- | :--- |
 | **[FiveM Finder ↗](https://fivemfinder.com/)** | Retrouvez des scripts, MLO, véhicules et vêtements FiveM issus de plusieurs plateformes dans une seule recherche. |
 | **[Kloups YT DL ↗](https://yt.kloups.fr/)** | Analysez un lien YouTube et choisissez un export vidéo ou audio pour les contenus que vous êtes autorisé à télécharger. |
 | **[Knowledge Core ↗](https://kc.kloups.fr/)** | Recherchez dans une base de connaissances techniques et retrouvez les fiches, leurs sources et leurs liens. |
 
-## Langages & outils
+## Comment nous travaillons
+
+Nous partons d’un usage, testons une première version, puis travaillons l’interface et la documentation. Chaque dépôt indique l’état du projet et ses conditions d’utilisation.
+
+<details>
+<summary>Langages et outils du studio</summary>
 
 <img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/stack.png" alt="Stack Kloups Studio par domaine. Détail ci-dessous." width="100%">
 
-<details>
-<summary>Voir la liste des technologies</summary>
-
-- **Langages & web** · Rust, TypeScript, JavaScript, Python, C#, HTML, CSS
-- **Interfaces & applications** · Qt / QML, React, Next.js, Node.js, Tailwind CSS
-- **Infrastructure & livraison** · Linux, Docker, Nginx, Vercel, Git, GitHub
+- **Langages et web** · Rust, TypeScript, JavaScript, Python, C#, HTML, CSS
+- **Interfaces et applications** · Qt / QML, React, Next.js, Node.js, Tailwind CSS
+- **Infrastructure et livraison** · Linux, Docker, Nginx, Vercel, Git, GitHub
 
 </details>
 
-## Le studio
-
-Kloups Studio réunit une pratique indépendante du développement logiciel, du web et de la création numérique. Nous aimons comprendre un besoin, expérimenter une réponse et lui donner une forme simple à utiliser.
-
-**Créer avec curiosité.** Explorer, prototyper et travailler les interfaces autant que leur fonctionnement.
-
-**Construire pour un usage.** Expliquer ce qu’un outil permet de faire, documenter son état et rendre ses limites visibles.
-
-**Garder des choix indépendants.** Choisir les technologies selon les projets et partager le code lorsque le projet s’y prête. Les conditions d’utilisation sont précisées dans chaque dépôt.
-
-<br>
-
-## Échanger & contribuer
-
-Pour découvrir les autres réalisations et retrouver le studio : **[kloups.fr ↗](https://kloups.fr)**
-
-Pour signaler un problème ou proposer une amélioration, rendez-vous dans les issues du projet concerné et consultez son guide de contribution lorsqu’il existe.
-
 ---
 
-<sub><strong>KLOUPS STUDIO</strong> &nbsp; / &nbsp; Logiciels · Web · Outils &nbsp; / &nbsp; France</sub>
+Pour proposer une amélioration ou signaler un bug, ouvrez une issue dans le dépôt du projet. Retrouvez les autres réalisations sur **[kloups.fr ↗](https://kloups.fr)**.
