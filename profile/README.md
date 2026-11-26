@@ -53,20 +53,22 @@ Retrouvez au même endroit vos réglages pour PC gaming, vos outils de maintenan
 | **[Kloups YT DL ↗](https://yt.kloups.fr/)** | Analysez un lien YouTube et choisissez un export vidéo ou audio pour les contenus que vous êtes autorisé à télécharger. |
 | **[Knowledge Core ↗](https://kc.kloups.fr/)** | Recherchez dans une base de connaissances techniques et retrouvez les fiches, leurs sources et leurs liens. |
 
-## Comment nous travaillons
-
-Nous partons d’un usage, testons une première version, puis travaillons l’interface et la documentation. Chaque dépôt indique l’état du projet et ses conditions d’utilisation.
-
-<details>
-<summary>Langages et outils du studio</summary>
+## Langages et outils
 
 <img src="https://raw.githubusercontent.com/Kloups-Dev/.github/main/assets/KLOUPS_GITHUB_G3/assets/g3/stack.png" alt="Stack Kloups Studio par domaine. Détail ci-dessous." width="100%">
+
+<details>
+<summary>Liste des technologies</summary>
 
 - **Langages et web** · Rust, TypeScript, JavaScript, Python, C#, HTML, CSS
 - **Interfaces et applications** · Qt / QML, React, Next.js, Node.js, Tailwind CSS
 - **Infrastructure et livraison** · Linux, Docker, Nginx, Vercel, Git, GitHub
 
 </details>
+
+## Comment nous travaillons
+
+Nous partons d’un usage, testons une première version, puis travaillons l’interface et la documentation. Chaque dépôt indique l’état du projet et ses conditions d’utilisation.
 
 ---
 
